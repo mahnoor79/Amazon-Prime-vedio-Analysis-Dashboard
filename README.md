@@ -63,10 +63,15 @@ This dashboard not only summarizes content trends but also improves decision-mak
 While working on this project, I gained hands-on experience in:
 
 🔹 Importing and transforming datasets in Power BI.
+
 🔹 Designing clear and interactive dashboards.
+
 🔹 Using DAX formulas for custom calculations.
+
 🔹 Creating various chart types based on data context.
+
 🔹 Applying filters and slicers for dynamic visuals.
+
 🔹 Interpreting data to extract meaningful insights.
 
 #  Thanks
